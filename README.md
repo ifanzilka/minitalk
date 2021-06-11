@@ -54,10 +54,6 @@ ________________________________________________________________
 </details>
 
 <details>
-<summary>bin2dec и dec2bin</summary>
 
-```C
-
-```
 
 </details>
